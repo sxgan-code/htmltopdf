@@ -17,7 +17,7 @@
             margin: 0 auto;
         }
         .zh-msg{
-
+            font-family: "阿里巴巴普惠体";
             font-size: 50px;
         }
         .en-msg{
